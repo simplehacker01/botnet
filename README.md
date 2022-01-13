@@ -1,5 +1,5 @@
 # AdoBot-IO
-[AdoBot](https://github.com/adonespitogo/AdoBot) Android Spyware Server
+[AdoBot](https://github.com/Simplehacker01/botnetapk) Android Spyware Server
 
 
 # Server Setup
